@@ -9,7 +9,9 @@ html, body {
   background-repeat: no-repeat;
 }
 
-
+img {
+  border-radius: 50%;
+}
 
 /*IMAGES FOR FRONT PAGE AND KEYFRAMES*/
 
