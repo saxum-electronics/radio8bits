@@ -12,7 +12,7 @@ html, body {
 img {
   border-radius: 50%;
 }
-
+a { color: #FF0000; }
 /*IMAGES FOR FRONT PAGE AND KEYFRAMES*/
 
 @keyframes typing { 
